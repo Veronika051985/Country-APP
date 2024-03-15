@@ -1,18 +1,18 @@
 # Country-APP
 (https://laidybird.github.io/Cpuntry-APP/
-##Developer:Veronica Preda
+## Developer:Veronica Preda
 ![validating on diferent screens](https://user-images.githubusercontent.com/66474546/202907612-d262cb25-863e-4f96-915a-ce64ae1f78ae.png)
 
-##This APP was build to give you some basic information about a country.
+## This APP was build to give you some basic information about a country.
 This is an APP created as Portfolio project #2 (JavaScript Essentials) for Diploma in Full Stack Software Development at Code Institute. It is an interactive front-end info app where user can test their knowledge about Geoghraphy. 
 The application is easy to use for the user, it is responsive across a range of devices and incorporates best practices regarding design and accessibility.
 The project purpose is a presentation of interactive data. The site should respond to the users actions allowing users to actively engage with data, alter the way the site displays the information to achieve their preferred goals.
 
-##TOOL USED: HTML5, CSS, JAVA SCRIPT.
+## TOOL USED: HTML5, CSS, JAVA SCRIPT.
 
-##WIREFRAME:
+## WIREFRAME:
 
-##BEFORE INPUT:
+## BEFORE INPUT:
 
 ![wiareframe1](https://user-images.githubusercontent.com/66474546/202907699-c471ac5f-327c-4350-bb59-40695d072a97.png)
 
