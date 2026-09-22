@@ -1,12 +1,12 @@
 # Country-APP
-(https://laidybird.github.io/Cpuntry-APP/
-## Developer:Veronica Preda
-![validating on diferent screens](https://user-images.githubusercontent.com/66474546/202907612-d262cb25-863e-4f96-915a-ce64ae1f78ae.png)
+[View live site here](https://laidybird.github.io/Country-APP/)
+## Developer: Veronica Preda
+![validating on different screens](https://user-images.githubusercontent.com/66474546/202907612-d262cb25-863e-4f96-915a-ce64ae1f78ae.png)
 
-## This APP was build to give you some basic information about a country.
-This is an APP created as Portfolio project #2 (JavaScript Essentials) for Diploma in Full Stack Software Development at Code Institute. It is an interactive front-end info app where user can test their knowledge about Geoghraphy. 
-The application is easy to use for the user, it is responsive across a range of devices and incorporates best practices regarding design and accessibility.
-The project purpose is a presentation of interactive data. The site should respond to the users actions allowing users to actively engage with data, alter the way the site displays the information to achieve their preferred goals.
+## This app was built to give you some basic information about a country.
+This is an app created as Portfolio Project #2 (JavaScript Essentials) for the Diploma in Full Stack Software Development at Code Institute. It is an interactive front-end info app where users can test their knowledge about geography.
+The application is easy to use, it is responsive across a range of devices and incorporates best practices regarding design and accessibility.
+The project's purpose is a presentation of interactive data. The site should respond to the user's actions, allowing users to actively engage with the data and alter the way the site displays the information to achieve their preferred goals.
 
 ## TOOL USED: HTML5, CSS, JAVA SCRIPT.
 
@@ -14,32 +14,32 @@ The project purpose is a presentation of interactive data. The site should respo
 
 ## BEFORE INPUT:
 
-![wiareframe1](https://user-images.githubusercontent.com/66474546/202907699-c471ac5f-327c-4350-bb59-40695d072a97.png)
+![wireframe1](https://user-images.githubusercontent.com/66474546/202907699-c471ac5f-327c-4350-bb59-40695d072a97.png)
 
 ## MOBILE DEVICE:
 
 ![mobile wireframe](https://user-images.githubusercontent.com/66474546/202907731-8c99bf19-023f-4487-92fa-cfbaa9ef9623.png)
 
-## DESCKTOP:
+## DESKTOP:
 
 
 ![wireframe2](https://user-images.githubusercontent.com/66474546/202907754-61db76dc-4122-4016-afaa-38ba2b70bff8.png)
 
 ## Site Owner Goals
 
-As user i want to:
+As a user I want to:
 
-* Provide entertaining and an interactive experience for the users.
-* To provide a website that looks well across a range of devices and screen sizes.
-* Provide a usefull APP for ages.
+* Provide an entertaining and interactive experience for the users.
+* Provide a website that looks good across a range of devices and screen sizes.
+* Provide a useful app for all ages.
 
 ## User Goals
 
-As a user i want to:
+As a user I want to:
 
-* See clean interface
-* Learn something new about Geoghraphy.
-* Enjoy the APP.
+* See a clean interface.
+* Learn something new about geography.
+* Enjoy the app.
 
 # User Experience(UX/UI)
 
@@ -50,8 +50,7 @@ For container span I used #5d6274, and for alert i used #ff465a.
 
 # Typography
 
-* The Poppins is the font used throughout the whole website with Sans-serif as the fallback. The Robot font is clean, modern looking and it is easy to the eyes. It is sourced from Google Fonts and it is imported in the CSS document via @import.
-Structure
+* Poppins is the font used throughout the whole website, with sans-serif as the fallback. It is clean, modern looking and easy on the eyes. It is sourced from Google Fonts and linked in the HTML document's `<head>`.
 
 # Start screen 
 ![start screen](https://user-images.githubusercontent.com/66474546/202908917-32570031-db53-4c97-8cdc-a567298cb035.png)
@@ -95,7 +94,7 @@ Lighthouse - Google webdev tool used for performance testing showing near-maximu
 ![js validator](https://user-images.githubusercontent.com/66474546/202909365-72789878-4dc7-4d5f-a1b8-77d5fadec56d.png)
 
 
-## Deploiment
+## Deployment
 
 The project was deployed to GitHub Pages using the following steps:
 
@@ -119,13 +118,12 @@ If you want to fork this project with the intent to propose changes to the devel
 # Credits
 
 Learning resources
-* Code Institute - The JavaScript section and walkthrough project helped me alot in getting the knowledge needed.
+* Code Institute - The JavaScript section and walkthrough project helped me a lot in getting the knowledge needed.
 * W3C School - When Code Institute could not give me the answer.
-* JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett - When I needed to repeat or just see whatelse I could try when I was stuck.
-* GitHub Docs was used when making the ### Fork section and ### Cloning your forked repository, the pictures and code is taken directly from there.
-* Stackoverflow - I used this site alot to help with fixing and figuring out how to achieve certain things, for instance how to fix the timer ticking down I used this to help me figuring out what I did wrong.
+* JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett - When I needed to repeat or just see what else I could try when I was stuck.
+* GitHub Docs was used when making the Fork section, the pictures and code are taken directly from there.
+* Stack Overflow - I used this site a lot to help with fixing and figuring out how to achieve certain things.
 
-
-Hope to enjoy the APP
+Hope you enjoy the app!
 
 

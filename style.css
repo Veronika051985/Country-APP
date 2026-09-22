@@ -26,6 +26,17 @@
        grid-template-columns: 9fr 3fr;
        gap: 1.25em;
    }
+   .visually-hidden {
+       position: absolute;
+       width: 1px;
+       height: 1px;
+       padding: 0;
+       margin: -1px;
+       overflow: hidden;
+       clip: rect(0, 0, 0, 0);
+       white-space: nowrap;
+       border: 0;
+   }
    .search-wrapper button {
        font-size: 1em;
        background-color:  #3d64e6;
@@ -96,7 +107,7 @@
    .info{
     color:chartreuse;
    }
-   @media only screen and(max-width: 650px){
+   @media only screen and (max-width: 650px){
     .container {
         background-color: #ffffff;
         width: 50vw;
